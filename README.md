@@ -15,7 +15,7 @@
   -Pasted GitHub repo URL
 
 6. Created a Readme File and describes all steps 
-
-
+7. Commit file to Github
+8. Pushed file to github
 
 
