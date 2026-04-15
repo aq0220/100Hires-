@@ -21,4 +21,4 @@
 — What issues you ran into and how you solved them
 1. I faced an issue while logging into claude code it required subscription or credits
 2. I faced issue in git push through terminal so I followed claude instructions 
-   issue was I logged in as Triggered41 but the repo belongs to aq0220.I update the credentials using claude's help.
+   issue was I logged in as Triggered41 but the repo belongs to aq0220. I update the credentials using claude's instructions.
