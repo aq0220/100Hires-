@@ -16,9 +16,10 @@
 
 6. Created a Readme File and describes all steps 
 7. Commit file to Github
-8. Pushed file to github
+8. Pushed file to github 
 
 — What issues you ran into and how you solved them
 1. Issues I faced is loggin in claude code it needed subscription or credits
-
-sadasdas
+2. I faced issue in git push through terminal so I followed claude instructions 
+   issue was I logged in as Triggered41 but the repo belongs to aq0220. I update the credentials
+   using claude's help.
