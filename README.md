@@ -18,4 +18,6 @@
 7. Commit file to Github
 8. Pushed file to github
 
+— What issues you ran into and how you solved them
+1. Issues I faced is loggin in claude code it needed subscription or credits
 
