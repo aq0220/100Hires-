@@ -1,0 +1,21 @@
+— What tools you installed
+1. First I installed Cursor IDE through cursor.com 
+2. I installed Claude code extension using extension option
+3. I Installed Codex extension using extension option
+4. I Installed Git 
+
+— What steps you completed
+1. I went to cursor.com installed their IDE
+2. Opened cursor used Ctrl+shift+X and installed claude code extension
+3. Similar route installed Codex extension and logged in
+4. Created a Github account and Created a public repository
+5. Cloned repository in local 
+  -Press Ctrl+Shift+P
+  -Typed Git: Clone 
+  -Pasted GitHub repo URL
+
+6. Created a Readme File and describes all steps 
+
+
+
+
